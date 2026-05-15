@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Akhand;Full+Stack+MERN+Developer;Computer+Science+Student;Problem+Solver" alt="Typing SVG" />
   
   <p align="center">
@@ -50,4 +50,4 @@
    <a href="https://leetcode.com/u/Akhandps1/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-</div>
+</div> -->
